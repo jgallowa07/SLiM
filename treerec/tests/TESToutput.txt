@@ -3597,3 +3597,2803 @@ MutationType<m20> 8
 
 MutationType<m20> 9
 
+MutationType<m1> 0
+
+MutationType<m1> 1
+
+MutationType<m1> 2
+364 381 444 476 481 494 503 507 524
+MutationType<m1> 3
+381 476 494 499 503 510 525
+MutationType<m1> 4
+381 445 465 471 476 494 499 503 510 518 525
+MutationType<m1> 5
+
+MutationType<m1> 6
+
+MutationType<m1> 7
+
+MutationType<m1> 8
+
+MutationType<m1> 9
+
+MutationType<m2> 0
+
+MutationType<m2> 1
+
+MutationType<m2> 2
+
+MutationType<m2> 3
+
+MutationType<m2> 4
+
+MutationType<m2> 5
+
+MutationType<m2> 6
+
+MutationType<m2> 7
+438
+MutationType<m2> 8
+438
+MutationType<m2> 9
+438
+MutationType<m3> 0
+
+MutationType<m3> 1
+
+MutationType<m3> 2
+
+MutationType<m3> 3
+
+MutationType<m3> 4
+
+MutationType<m3> 5
+439 459 481 507 511 524
+MutationType<m3> 6
+
+MutationType<m3> 7
+
+MutationType<m3> 8
+400 439 458 459 461 480
+MutationType<m3> 9
+400 458 461 480
+MutationType<m4> 0
+260 349 380 401 464
+MutationType<m4> 1
+
+MutationType<m4> 2
+215 348 406 489
+MutationType<m4> 3
+
+MutationType<m4> 4
+
+MutationType<m4> 5
+199 348 355 404 406 407 438 484
+MutationType<m4> 6
+
+MutationType<m4> 7
+400 458 461 470 477 480
+MutationType<m4> 8
+
+MutationType<m4> 9
+
+MutationType<m5> 0
+
+MutationType<m5> 1
+
+MutationType<m5> 2
+
+MutationType<m5> 3
+
+MutationType<m5> 4
+
+MutationType<m5> 5
+
+MutationType<m5> 6
+
+MutationType<m5> 7
+215 380 465 481 489 507 510 525
+MutationType<m5> 8
+
+MutationType<m5> 9
+
+MutationType<m6> 0
+215
+MutationType<m6> 1
+
+MutationType<m6> 2
+
+MutationType<m6> 3
+215 485 489
+MutationType<m6> 4
+215 485 489
+MutationType<m6> 5
+
+MutationType<m6> 6
+
+MutationType<m6> 7
+485
+MutationType<m6> 8
+215 485 489 525
+MutationType<m6> 9
+
+MutationType<m7> 0
+
+MutationType<m7> 1
+290 495
+MutationType<m7> 2
+461
+MutationType<m7> 3
+
+MutationType<m7> 4
+290 495
+MutationType<m7> 5
+290 380 495
+MutationType<m7> 6
+214 380 489
+MutationType<m7> 7
+214
+MutationType<m7> 8
+214
+MutationType<m7> 9
+214
+MutationType<m8> 0
+
+MutationType<m8> 1
+
+MutationType<m8> 2
+214 290 495
+MutationType<m8> 3
+290 364 444 495
+MutationType<m8> 4
+364 444
+MutationType<m8> 5
+502
+MutationType<m8> 6
+502
+MutationType<m8> 7
+502 511 524
+MutationType<m8> 8
+481 511 524
+MutationType<m8> 9
+481 524
+MutationType<m9> 0
+406
+MutationType<m9> 1
+215 406 489 525
+MutationType<m9> 2
+380 439 465 511
+MutationType<m9> 3
+380 465 511
+MutationType<m9> 4
+380 439 481 502 507 511 524
+MutationType<m9> 5
+
+MutationType<m9> 6
+355 439 459 481 484 507 511 524
+MutationType<m9> 7
+
+MutationType<m9> 8
+
+MutationType<m9> 9
+
+MutationType<m10> 0
+
+MutationType<m10> 1
+
+MutationType<m10> 2
+
+MutationType<m10> 3
+
+MutationType<m10> 4
+
+MutationType<m10> 5
+
+MutationType<m10> 6
+
+MutationType<m10> 7
+355 439 459 484
+MutationType<m10> 8
+355
+MutationType<m10> 9
+
+MutationType<m11> 0
+199 261 326 327 354 365 444 481 488 502 506 507 511 518 519 524
+MutationType<m11> 1
+199 407 444 481 507 518 524
+MutationType<m11> 2
+199 519
+MutationType<m11> 3
+199 519
+MutationType<m11> 4
+
+MutationType<m11> 5
+
+MutationType<m11> 6
+
+MutationType<m11> 7
+
+MutationType<m11> 8
+348 406 510
+MutationType<m11> 9
+
+MutationType<m12> 0
+400 480
+MutationType<m12> 1
+348 400
+MutationType<m12> 2
+400 407 480 510
+MutationType<m12> 3
+407
+MutationType<m12> 4
+407
+MutationType<m12> 5
+
+MutationType<m12> 6
+276 381 465 468 494
+MutationType<m12> 7
+276 364 468
+MutationType<m12> 8
+
+MutationType<m12> 9
+
+MutationType<m13> 0
+198 277 291 404 405 460 485 495 498
+MutationType<m13> 1
+198 277 291 327 354 364 381 404 405 460 465 476 485 494 498 503 519
+MutationType<m13> 2
+198 404 405 460 485 498 525
+MutationType<m13> 3
+
+MutationType<m13> 4
+199 327 354 469 519
+MutationType<m13> 5
+198 261 326 327 349 354 364 381 405 444 445 460 465 469 471 476 494 498 499 510 518 519
+MutationType<m13> 6
+198 260 327 349 354 365 401 405 407 444 445 464 469 471 476 488 498 506 510 518 519
+MutationType<m13> 7
+198 260 291 327 349 354 381 401 405 407 444 445 469 471 476 488 494 498 506 518 519
+MutationType<m13> 8
+198 260 276 291 327 354 365 401 405 444 445 468 469 471 484 506 518 519
+MutationType<m13> 9
+198 291 327 354 405 444 469 484 518
+MutationType<m14> 0
+214 276 290 364 381 445 458 465 468 471 476 489 494 499 503 510 525
+MutationType<m14> 1
+261 276 326 365 458 468 470 480 506 510
+MutationType<m14> 2
+277 291
+MutationType<m14> 3
+198 261 276 277 291 326 349 365 404 405 458 460 461 468 480 498
+MutationType<m14> 4
+198 260 277 291 365 401 404 405 458 460 461 464 480 498
+MutationType<m14> 5
+260 277 291 365 400 401 458 461 464 480 506
+MutationType<m14> 6
+277 291 400 458 461 470 477 480
+MutationType<m14> 7
+277
+MutationType<m14> 8
+277 290 381 476 488 495
+MutationType<m14> 9
+290 381 488
+MutationType<m15> 0
+
+MutationType<m15> 1
+355 469 484
+MutationType<m15> 2
+
+MutationType<m15> 3
+
+MutationType<m15> 4
+355 484
+MutationType<m15> 5
+
+MutationType<m15> 6
+
+MutationType<m15> 7
+
+MutationType<m15> 8
+
+MutationType<m15> 9
+
+MutationType<m16> 0
+355 461 469 484
+MutationType<m16> 1
+461
+MutationType<m16> 2
+
+MutationType<m16> 3
+
+MutationType<m16> 4
+
+MutationType<m16> 5
+
+MutationType<m16> 6
+
+MutationType<m16> 7
+499 503
+MutationType<m16> 8
+499 503
+MutationType<m16> 9
+
+MutationType<m17> 0
+348 407
+MutationType<m17> 1
+
+MutationType<m17> 2
+327 354 469
+MutationType<m17> 3
+348 400 406
+MutationType<m17> 4
+400 406 470
+MutationType<m17> 5
+470 477
+MutationType<m17> 6
+261 326 364
+MutationType<m17> 7
+261 326 365 464
+MutationType<m17> 8
+261 326 349 364 464 470 477 502
+MutationType<m17> 9
+261 326 349 364 464 470 502
+MutationType<m18> 0
+
+MutationType<m18> 1
+499
+MutationType<m18> 2
+355 484 499
+MutationType<m18> 3
+327 354 355 469 484 488
+MutationType<m18> 4
+348 438 459 477 488
+MutationType<m18> 5
+
+MutationType<m18> 6
+199 348 404 406 438 460
+MutationType<m18> 7
+199 348 404 406 460
+MutationType<m18> 8
+199 380 404 460 465 494 498 507
+MutationType<m18> 9
+
+MutationType<m19> 0
+439 459
+MutationType<m19> 1
+
+MutationType<m19> 2
+
+MutationType<m19> 3
+214 438 459 470 477
+MutationType<m19> 4
+214 261 276 326 349 468 506
+MutationType<m19> 5
+214 276 468 488 489 503
+MutationType<m19> 6
+
+MutationType<m19> 7
+
+MutationType<m19> 8
+407
+MutationType<m19> 9
+407
+MutationType<m20> 0
+438 470 477
+MutationType<m20> 1
+214 260 349 380 401 438 439 445 459 464 471 477 488 502 511
+MutationType<m20> 2
+260 261 276 326 349 365 401 438 445 458 459 464 468 470 471 477 488 502 506 518
+MutationType<m20> 3
+260 401 439 445 464 471 481 502 506 507 518 524
+MutationType<m20> 4
+
+MutationType<m20> 5
+215 485 525
+MutationType<m20> 6
+215 290 485 495 499 503 525
+MutationType<m20> 7
+290 495
+MutationType<m20> 8
+
+MutationType<m20> 9
+
+MutationType<m1> 0
+
+MutationType<m1> 1
+
+MutationType<m1> 2
+364 381 444 476 481 494 503 507 524
+MutationType<m1> 3
+381 476 494 499 503 510 525
+MutationType<m1> 4
+381 445 465 471 476 494 499 503 510 518 525
+MutationType<m1> 5
+
+MutationType<m1> 6
+
+MutationType<m1> 7
+
+MutationType<m1> 8
+
+MutationType<m1> 9
+
+MutationType<m2> 0
+
+MutationType<m2> 1
+
+MutationType<m2> 2
+
+MutationType<m2> 3
+
+MutationType<m2> 4
+
+MutationType<m2> 5
+
+MutationType<m2> 6
+
+MutationType<m2> 7
+438
+MutationType<m2> 8
+438
+MutationType<m2> 9
+438
+MutationType<m3> 0
+
+MutationType<m3> 1
+
+MutationType<m3> 2
+
+MutationType<m3> 3
+
+MutationType<m3> 4
+
+MutationType<m3> 5
+439 459 481 507 511 524
+MutationType<m3> 6
+
+MutationType<m3> 7
+
+MutationType<m3> 8
+400 439 458 459 461 480
+MutationType<m3> 9
+400 458 461 480
+MutationType<m4> 0
+260 349 380 401 464
+MutationType<m4> 1
+
+MutationType<m4> 2
+215 348 406 489
+MutationType<m4> 3
+
+MutationType<m4> 4
+
+MutationType<m4> 5
+199 348 355 404 406 407 438 484
+MutationType<m4> 6
+
+MutationType<m4> 7
+400 458 461 470 477 480
+MutationType<m4> 8
+
+MutationType<m4> 9
+
+MutationType<m5> 0
+
+MutationType<m5> 1
+
+MutationType<m5> 2
+
+MutationType<m5> 3
+
+MutationType<m5> 4
+
+MutationType<m5> 5
+
+MutationType<m5> 6
+
+MutationType<m5> 7
+215 380 465 481 489 507 510 525
+MutationType<m5> 8
+
+MutationType<m5> 9
+
+MutationType<m6> 0
+215
+MutationType<m6> 1
+
+MutationType<m6> 2
+
+MutationType<m6> 3
+215 485 489
+MutationType<m6> 4
+215 485 489
+MutationType<m6> 5
+
+MutationType<m6> 6
+
+MutationType<m6> 7
+485
+MutationType<m6> 8
+215 485 489 525
+MutationType<m6> 9
+
+MutationType<m7> 0
+
+MutationType<m7> 1
+290 495
+MutationType<m7> 2
+461
+MutationType<m7> 3
+
+MutationType<m7> 4
+290 495
+MutationType<m7> 5
+290 380 495
+MutationType<m7> 6
+214 380 489
+MutationType<m7> 7
+214
+MutationType<m7> 8
+214
+MutationType<m7> 9
+214
+MutationType<m8> 0
+
+MutationType<m8> 1
+
+MutationType<m8> 2
+214 290 495
+MutationType<m8> 3
+290 364 444 495
+MutationType<m8> 4
+364 444
+MutationType<m8> 5
+502
+MutationType<m8> 6
+502
+MutationType<m8> 7
+502 511 524
+MutationType<m8> 8
+481 511 524
+MutationType<m8> 9
+481 524
+MutationType<m9> 0
+406
+MutationType<m9> 1
+215 406 489 525
+MutationType<m9> 2
+380 439 465 511
+MutationType<m9> 3
+380 465 511
+MutationType<m9> 4
+380 439 481 502 507 511 524
+MutationType<m9> 5
+
+MutationType<m9> 6
+355 439 459 481 484 507 511 524
+MutationType<m9> 7
+
+MutationType<m9> 8
+
+MutationType<m9> 9
+
+MutationType<m10> 0
+
+MutationType<m10> 1
+
+MutationType<m10> 2
+
+MutationType<m10> 3
+
+MutationType<m10> 4
+
+MutationType<m10> 5
+
+MutationType<m10> 6
+
+MutationType<m10> 7
+355 439 459 484
+MutationType<m10> 8
+355
+MutationType<m10> 9
+
+MutationType<m11> 0
+199 261 326 327 354 365 444 481 488 502 506 507 511 518 519 524
+MutationType<m11> 1
+199 407 444 481 507 518 524
+MutationType<m11> 2
+199 519
+MutationType<m11> 3
+199 519
+MutationType<m11> 4
+
+MutationType<m11> 5
+
+MutationType<m11> 6
+
+MutationType<m11> 7
+
+MutationType<m11> 8
+348 406 510
+MutationType<m11> 9
+
+MutationType<m12> 0
+400 480
+MutationType<m12> 1
+348 400
+MutationType<m12> 2
+400 407 480 510
+MutationType<m12> 3
+407
+MutationType<m12> 4
+407
+MutationType<m12> 5
+
+MutationType<m12> 6
+276 381 465 468 494
+MutationType<m12> 7
+276 364 468
+MutationType<m12> 8
+
+MutationType<m12> 9
+
+MutationType<m13> 0
+198 277 291 404 405 460 485 495 498
+MutationType<m13> 1
+198 277 291 327 354 364 381 404 405 460 465 476 485 494 498 503 519
+MutationType<m13> 2
+198 404 405 460 485 498 525
+MutationType<m13> 3
+
+MutationType<m13> 4
+199 327 354 469 519
+MutationType<m13> 5
+198 261 326 327 349 354 364 381 405 444 445 460 465 469 471 476 494 498 499 510 518 519
+MutationType<m13> 6
+198 260 327 349 354 365 401 405 407 444 445 464 469 471 476 488 498 506 510 518 519
+MutationType<m13> 7
+198 260 291 327 349 354 381 401 405 407 444 445 469 471 476 488 494 498 506 518 519
+MutationType<m13> 8
+198 260 276 291 327 354 365 401 405 444 445 468 469 471 484 506 518 519
+MutationType<m13> 9
+198 291 327 354 405 444 469 484 518
+MutationType<m14> 0
+214 276 290 364 381 445 458 465 468 471 476 489 494 499 503 510 525
+MutationType<m14> 1
+261 276 326 365 458 468 470 480 506 510
+MutationType<m14> 2
+277 291
+MutationType<m14> 3
+198 261 276 277 291 326 349 365 404 405 458 460 461 468 480 498
+MutationType<m14> 4
+198 260 277 291 365 401 404 405 458 460 461 464 480 498
+MutationType<m14> 5
+260 277 291 365 400 401 458 461 464 480 506
+MutationType<m14> 6
+277 291 400 458 461 470 477 480
+MutationType<m14> 7
+277
+MutationType<m14> 8
+277 290 381 476 488 495
+MutationType<m14> 9
+290 381 488
+MutationType<m15> 0
+
+MutationType<m15> 1
+355 469 484
+MutationType<m15> 2
+
+MutationType<m15> 3
+
+MutationType<m15> 4
+355 484
+MutationType<m15> 5
+
+MutationType<m15> 6
+
+MutationType<m15> 7
+
+MutationType<m15> 8
+
+MutationType<m15> 9
+
+MutationType<m16> 0
+355 461 469 484
+MutationType<m16> 1
+461
+MutationType<m16> 2
+
+MutationType<m16> 3
+
+MutationType<m16> 4
+
+MutationType<m16> 5
+
+MutationType<m16> 6
+
+MutationType<m16> 7
+499 503
+MutationType<m16> 8
+499 503
+MutationType<m16> 9
+
+MutationType<m17> 0
+348 407
+MutationType<m17> 1
+
+MutationType<m17> 2
+327 354 469
+MutationType<m17> 3
+348 400 406
+MutationType<m17> 4
+400 406 470
+MutationType<m17> 5
+470 477
+MutationType<m17> 6
+261 326 364
+MutationType<m17> 7
+261 326 365 464
+MutationType<m17> 8
+261 326 349 364 464 470 477 502
+MutationType<m17> 9
+261 326 349 364 464 470 502
+MutationType<m18> 0
+
+MutationType<m18> 1
+499
+MutationType<m18> 2
+355 484 499
+MutationType<m18> 3
+327 354 355 469 484 488
+MutationType<m18> 4
+348 438 459 477 488
+MutationType<m18> 5
+
+MutationType<m18> 6
+199 348 404 406 438 460
+MutationType<m18> 7
+199 348 404 406 460
+MutationType<m18> 8
+199 380 404 460 465 494 498 507
+MutationType<m18> 9
+
+MutationType<m19> 0
+439 459
+MutationType<m19> 1
+
+MutationType<m19> 2
+
+MutationType<m19> 3
+214 438 459 470 477
+MutationType<m19> 4
+214 261 276 326 349 468 506
+MutationType<m19> 5
+214 276 468 488 489 503
+MutationType<m19> 6
+
+MutationType<m19> 7
+
+MutationType<m19> 8
+407
+MutationType<m19> 9
+407
+MutationType<m20> 0
+438 470 477
+MutationType<m20> 1
+214 260 349 380 401 438 439 445 459 464 471 477 488 502 511
+MutationType<m20> 2
+260 261 276 326 349 365 401 438 445 458 459 464 468 470 471 477 488 502 506 518
+MutationType<m20> 3
+260 401 439 445 464 471 481 502 506 507 518 524
+MutationType<m20> 4
+
+MutationType<m20> 5
+215 485 525
+MutationType<m20> 6
+215 290 485 495 499 503 525
+MutationType<m20> 7
+290 495
+MutationType<m20> 8
+
+MutationType<m20> 9
+
+MutationType<m1> 0
+
+MutationType<m1> 1
+
+MutationType<m1> 2
+364 381 444 476 481 494 503 507 524
+MutationType<m1> 3
+381 476 494 499 503 510 525
+MutationType<m1> 4
+381 445 465 471 476 494 499 503 510 518 525
+MutationType<m1> 5
+
+MutationType<m1> 6
+
+MutationType<m1> 7
+
+MutationType<m1> 8
+
+MutationType<m1> 9
+
+MutationType<m2> 0
+
+MutationType<m2> 1
+
+MutationType<m2> 2
+
+MutationType<m2> 3
+
+MutationType<m2> 4
+
+MutationType<m2> 5
+
+MutationType<m2> 6
+
+MutationType<m2> 7
+438
+MutationType<m2> 8
+438
+MutationType<m2> 9
+438
+MutationType<m3> 0
+
+MutationType<m3> 1
+
+MutationType<m3> 2
+
+MutationType<m3> 3
+
+MutationType<m3> 4
+
+MutationType<m3> 5
+439 459 481 507 511 524
+MutationType<m3> 6
+
+MutationType<m3> 7
+
+MutationType<m3> 8
+400 439 458 459 461 480
+MutationType<m3> 9
+400 458 461 480
+MutationType<m4> 0
+260 349 380 401 464
+MutationType<m4> 1
+
+MutationType<m4> 2
+215 348 406 489
+MutationType<m4> 3
+
+MutationType<m4> 4
+
+MutationType<m4> 5
+199 348 355 404 406 407 438 484
+MutationType<m4> 6
+
+MutationType<m4> 7
+400 458 461 470 477 480
+MutationType<m4> 8
+
+MutationType<m4> 9
+
+MutationType<m5> 0
+
+MutationType<m5> 1
+
+MutationType<m5> 2
+
+MutationType<m5> 3
+
+MutationType<m5> 4
+
+MutationType<m5> 5
+
+MutationType<m5> 6
+
+MutationType<m5> 7
+215 380 465 481 489 507 510 525
+MutationType<m5> 8
+
+MutationType<m5> 9
+
+MutationType<m6> 0
+215
+MutationType<m6> 1
+
+MutationType<m6> 2
+
+MutationType<m6> 3
+215 485 489
+MutationType<m6> 4
+215 485 489
+MutationType<m6> 5
+
+MutationType<m6> 6
+
+MutationType<m6> 7
+485
+MutationType<m6> 8
+215 485 489 525
+MutationType<m6> 9
+
+MutationType<m7> 0
+
+MutationType<m7> 1
+290 495
+MutationType<m7> 2
+461
+MutationType<m7> 3
+
+MutationType<m7> 4
+290 495
+MutationType<m7> 5
+290 380 495
+MutationType<m7> 6
+214 380 489
+MutationType<m7> 7
+214
+MutationType<m7> 8
+214
+MutationType<m7> 9
+214
+MutationType<m8> 0
+
+MutationType<m8> 1
+
+MutationType<m8> 2
+214 290 495
+MutationType<m8> 3
+290 364 444 495
+MutationType<m8> 4
+364 444
+MutationType<m8> 5
+502
+MutationType<m8> 6
+502
+MutationType<m8> 7
+502 511 524
+MutationType<m8> 8
+481 511 524
+MutationType<m8> 9
+481 524
+MutationType<m9> 0
+406
+MutationType<m9> 1
+215 406 489 525
+MutationType<m9> 2
+380 439 465 511
+MutationType<m9> 3
+380 465 511
+MutationType<m9> 4
+380 439 481 502 507 511 524
+MutationType<m9> 5
+
+MutationType<m9> 6
+355 439 459 481 484 507 511 524
+MutationType<m9> 7
+
+MutationType<m9> 8
+
+MutationType<m9> 9
+
+MutationType<m10> 0
+
+MutationType<m10> 1
+
+MutationType<m10> 2
+
+MutationType<m10> 3
+
+MutationType<m10> 4
+
+MutationType<m10> 5
+
+MutationType<m10> 6
+
+MutationType<m10> 7
+355 439 459 484
+MutationType<m10> 8
+355
+MutationType<m10> 9
+
+MutationType<m11> 0
+199 261 326 327 354 365 444 481 488 502 506 507 511 518 519 524
+MutationType<m11> 1
+199 407 444 481 507 518 524
+MutationType<m11> 2
+199 519
+MutationType<m11> 3
+199 519
+MutationType<m11> 4
+
+MutationType<m11> 5
+
+MutationType<m11> 6
+
+MutationType<m11> 7
+
+MutationType<m11> 8
+348 406 510
+MutationType<m11> 9
+
+MutationType<m12> 0
+400 480
+MutationType<m12> 1
+348 400
+MutationType<m12> 2
+400 407 480 510
+MutationType<m12> 3
+407
+MutationType<m12> 4
+407
+MutationType<m12> 5
+
+MutationType<m12> 6
+276 381 465 468 494
+MutationType<m12> 7
+276 364 468
+MutationType<m12> 8
+
+MutationType<m12> 9
+
+MutationType<m13> 0
+198 277 291 404 405 460 485 495 498
+MutationType<m13> 1
+198 277 291 327 354 364 381 404 405 460 465 476 485 494 498 503 519
+MutationType<m13> 2
+198 404 405 460 485 498 525
+MutationType<m13> 3
+
+MutationType<m13> 4
+199 327 354 469 519
+MutationType<m13> 5
+198 261 326 327 349 354 364 381 405 444 445 460 465 469 471 476 494 498 499 510 518 519
+MutationType<m13> 6
+198 260 327 349 354 365 401 405 407 444 445 464 469 471 476 488 498 506 510 518 519
+MutationType<m13> 7
+198 260 291 327 349 354 381 401 405 407 444 445 469 471 476 488 494 498 506 518 519
+MutationType<m13> 8
+198 260 276 291 327 354 365 401 405 444 445 468 469 471 484 506 518 519
+MutationType<m13> 9
+198 291 327 354 405 444 469 484 518
+MutationType<m14> 0
+214 276 290 364 381 445 458 465 468 471 476 489 494 499 503 510 525
+MutationType<m14> 1
+261 276 326 365 458 468 470 480 506 510
+MutationType<m14> 2
+277 291
+MutationType<m14> 3
+198 261 276 277 291 326 349 365 404 405 458 460 461 468 480 498
+MutationType<m14> 4
+198 260 277 291 365 401 404 405 458 460 461 464 480 498
+MutationType<m14> 5
+260 277 291 365 400 401 458 461 464 480 506
+MutationType<m14> 6
+277 291 400 458 461 470 477 480
+MutationType<m14> 7
+277
+MutationType<m14> 8
+277 290 381 476 488 495
+MutationType<m14> 9
+290 381 488
+MutationType<m15> 0
+
+MutationType<m15> 1
+355 469 484
+MutationType<m15> 2
+
+MutationType<m15> 3
+
+MutationType<m15> 4
+355 484
+MutationType<m15> 5
+
+MutationType<m15> 6
+
+MutationType<m15> 7
+
+MutationType<m15> 8
+
+MutationType<m15> 9
+
+MutationType<m16> 0
+355 461 469 484
+MutationType<m16> 1
+461
+MutationType<m16> 2
+
+MutationType<m16> 3
+
+MutationType<m16> 4
+
+MutationType<m16> 5
+
+MutationType<m16> 6
+
+MutationType<m16> 7
+499 503
+MutationType<m16> 8
+499 503
+MutationType<m16> 9
+
+MutationType<m17> 0
+348 407
+MutationType<m17> 1
+
+MutationType<m17> 2
+327 354 469
+MutationType<m17> 3
+348 400 406
+MutationType<m17> 4
+400 406 470
+MutationType<m17> 5
+470 477
+MutationType<m17> 6
+261 326 364
+MutationType<m17> 7
+261 326 365 464
+MutationType<m17> 8
+261 326 349 364 464 470 477 502
+MutationType<m17> 9
+261 326 349 364 464 470 502
+MutationType<m18> 0
+
+MutationType<m18> 1
+499
+MutationType<m18> 2
+355 484 499
+MutationType<m18> 3
+327 354 355 469 484 488
+MutationType<m18> 4
+348 438 459 477 488
+MutationType<m18> 5
+
+MutationType<m18> 6
+199 348 404 406 438 460
+MutationType<m18> 7
+199 348 404 406 460
+MutationType<m18> 8
+199 380 404 460 465 494 498 507
+MutationType<m18> 9
+
+MutationType<m19> 0
+439 459
+MutationType<m19> 1
+
+MutationType<m19> 2
+
+MutationType<m19> 3
+214 438 459 470 477
+MutationType<m19> 4
+214 261 276 326 349 468 506
+MutationType<m19> 5
+214 276 468 488 489 503
+MutationType<m19> 6
+
+MutationType<m19> 7
+
+MutationType<m19> 8
+407
+MutationType<m19> 9
+407
+MutationType<m20> 0
+438 470 477
+MutationType<m20> 1
+214 260 349 380 401 438 439 445 459 464 471 477 488 502 511
+MutationType<m20> 2
+260 261 276 326 349 365 401 438 445 458 459 464 468 470 471 477 488 502 506 518
+MutationType<m20> 3
+260 401 439 445 464 471 481 502 506 507 518 524
+MutationType<m20> 4
+
+MutationType<m20> 5
+215 485 525
+MutationType<m20> 6
+215 290 485 495 499 503 525
+MutationType<m20> 7
+290 495
+MutationType<m20> 8
+
+MutationType<m20> 9
+
+MutationType<m1> 0
+
+MutationType<m1> 1
+
+MutationType<m1> 2
+364 381 444 476 481 494 503 507 524
+MutationType<m1> 3
+381 476 494 499 503 510 525
+MutationType<m1> 4
+381 445 465 471 476 494 499 503 510 518 525
+MutationType<m1> 5
+
+MutationType<m1> 6
+
+MutationType<m1> 7
+
+MutationType<m1> 8
+
+MutationType<m1> 9
+
+MutationType<m2> 0
+
+MutationType<m2> 1
+
+MutationType<m2> 2
+
+MutationType<m2> 3
+
+MutationType<m2> 4
+
+MutationType<m2> 5
+
+MutationType<m2> 6
+
+MutationType<m2> 7
+438
+MutationType<m2> 8
+438
+MutationType<m2> 9
+438
+MutationType<m3> 0
+
+MutationType<m3> 1
+
+MutationType<m3> 2
+
+MutationType<m3> 3
+
+MutationType<m3> 4
+
+MutationType<m3> 5
+439 459 481 507 511 524
+MutationType<m3> 6
+
+MutationType<m3> 7
+
+MutationType<m3> 8
+400 439 458 459 461 480
+MutationType<m3> 9
+400 458 461 480
+MutationType<m4> 0
+260 349 380 401 464
+MutationType<m4> 1
+
+MutationType<m4> 2
+215 348 406 489
+MutationType<m4> 3
+
+MutationType<m4> 4
+
+MutationType<m4> 5
+199 348 355 404 406 407 438 484
+MutationType<m4> 6
+
+MutationType<m4> 7
+400 458 461 470 477 480
+MutationType<m4> 8
+
+MutationType<m4> 9
+
+MutationType<m5> 0
+
+MutationType<m5> 1
+
+MutationType<m5> 2
+
+MutationType<m5> 3
+
+MutationType<m5> 4
+
+MutationType<m5> 5
+
+MutationType<m5> 6
+
+MutationType<m5> 7
+215 380 465 481 489 507 510 525
+MutationType<m5> 8
+
+MutationType<m5> 9
+
+MutationType<m6> 0
+215
+MutationType<m6> 1
+
+MutationType<m6> 2
+
+MutationType<m6> 3
+215 485 489
+MutationType<m6> 4
+215 485 489
+MutationType<m6> 5
+
+MutationType<m6> 6
+
+MutationType<m6> 7
+485
+MutationType<m6> 8
+215 485 489 525
+MutationType<m6> 9
+
+MutationType<m7> 0
+
+MutationType<m7> 1
+290 495
+MutationType<m7> 2
+461
+MutationType<m7> 3
+
+MutationType<m7> 4
+290 495
+MutationType<m7> 5
+290 380 495
+MutationType<m7> 6
+214 380 489
+MutationType<m7> 7
+214
+MutationType<m7> 8
+214
+MutationType<m7> 9
+214
+MutationType<m8> 0
+
+MutationType<m8> 1
+
+MutationType<m8> 2
+214 290 495
+MutationType<m8> 3
+290 364 444 495
+MutationType<m8> 4
+364 444
+MutationType<m8> 5
+502
+MutationType<m8> 6
+502
+MutationType<m8> 7
+502 511 524
+MutationType<m8> 8
+481 511 524
+MutationType<m8> 9
+481 524
+MutationType<m9> 0
+406
+MutationType<m9> 1
+215 406 489 525
+MutationType<m9> 2
+380 439 465 511
+MutationType<m9> 3
+380 465 511
+MutationType<m9> 4
+380 439 481 502 507 511 524
+MutationType<m9> 5
+
+MutationType<m9> 6
+355 439 459 481 484 507 511 524
+MutationType<m9> 7
+
+MutationType<m9> 8
+
+MutationType<m9> 9
+
+MutationType<m10> 0
+
+MutationType<m10> 1
+
+MutationType<m10> 2
+
+MutationType<m10> 3
+
+MutationType<m10> 4
+
+MutationType<m10> 5
+
+MutationType<m10> 6
+
+MutationType<m10> 7
+355 439 459 484
+MutationType<m10> 8
+355
+MutationType<m10> 9
+
+MutationType<m11> 0
+199 261 326 327 354 365 444 481 488 502 506 507 511 518 519 524
+MutationType<m11> 1
+199 407 444 481 507 518 524
+MutationType<m11> 2
+199 519
+MutationType<m11> 3
+199 519
+MutationType<m11> 4
+
+MutationType<m11> 5
+
+MutationType<m11> 6
+
+MutationType<m11> 7
+
+MutationType<m11> 8
+348 406 510
+MutationType<m11> 9
+
+MutationType<m12> 0
+400 480
+MutationType<m12> 1
+348 400
+MutationType<m12> 2
+400 407 480 510
+MutationType<m12> 3
+407
+MutationType<m12> 4
+407
+MutationType<m12> 5
+
+MutationType<m12> 6
+276 381 465 468 494
+MutationType<m12> 7
+276 364 468
+MutationType<m12> 8
+
+MutationType<m12> 9
+
+MutationType<m13> 0
+198 277 291 404 405 460 485 495 498
+MutationType<m13> 1
+198 277 291 327 354 364 381 404 405 460 465 476 485 494 498 503 519
+MutationType<m13> 2
+198 404 405 460 485 498 525
+MutationType<m13> 3
+
+MutationType<m13> 4
+199 327 354 469 519
+MutationType<m13> 5
+198 261 326 327 349 354 364 381 405 444 445 460 465 469 471 476 494 498 499 510 518 519
+MutationType<m13> 6
+198 260 327 349 354 365 401 405 407 444 445 464 469 471 476 488 498 506 510 518 519
+MutationType<m13> 7
+198 260 291 327 349 354 381 401 405 407 444 445 469 471 476 488 494 498 506 518 519
+MutationType<m13> 8
+198 260 276 291 327 354 365 401 405 444 445 468 469 471 484 506 518 519
+MutationType<m13> 9
+198 291 327 354 405 444 469 484 518
+MutationType<m14> 0
+214 276 290 364 381 445 458 465 468 471 476 489 494 499 503 510 525
+MutationType<m14> 1
+261 276 326 365 458 468 470 480 506 510
+MutationType<m14> 2
+277 291
+MutationType<m14> 3
+198 261 276 277 291 326 349 365 404 405 458 460 461 468 480 498
+MutationType<m14> 4
+198 260 277 291 365 401 404 405 458 460 461 464 480 498
+MutationType<m14> 5
+260 277 291 365 400 401 458 461 464 480 506
+MutationType<m14> 6
+277 291 400 458 461 470 477 480
+MutationType<m14> 7
+277
+MutationType<m14> 8
+277 290 381 476 488 495
+MutationType<m14> 9
+290 381 488
+MutationType<m15> 0
+
+MutationType<m15> 1
+355 469 484
+MutationType<m15> 2
+
+MutationType<m15> 3
+
+MutationType<m15> 4
+355 484
+MutationType<m15> 5
+
+MutationType<m15> 6
+
+MutationType<m15> 7
+
+MutationType<m15> 8
+
+MutationType<m15> 9
+
+MutationType<m16> 0
+355 461 469 484
+MutationType<m16> 1
+461
+MutationType<m16> 2
+
+MutationType<m16> 3
+
+MutationType<m16> 4
+
+MutationType<m16> 5
+
+MutationType<m16> 6
+
+MutationType<m16> 7
+499 503
+MutationType<m16> 8
+499 503
+MutationType<m16> 9
+
+MutationType<m17> 0
+348 407
+MutationType<m17> 1
+
+MutationType<m17> 2
+327 354 469
+MutationType<m17> 3
+348 400 406
+MutationType<m17> 4
+400 406 470
+MutationType<m17> 5
+470 477
+MutationType<m17> 6
+261 326 364
+MutationType<m17> 7
+261 326 365 464
+MutationType<m17> 8
+261 326 349 364 464 470 477 502
+MutationType<m17> 9
+261 326 349 364 464 470 502
+MutationType<m18> 0
+
+MutationType<m18> 1
+499
+MutationType<m18> 2
+355 484 499
+MutationType<m18> 3
+327 354 355 469 484 488
+MutationType<m18> 4
+348 438 459 477 488
+MutationType<m18> 5
+
+MutationType<m18> 6
+199 348 404 406 438 460
+MutationType<m18> 7
+199 348 404 406 460
+MutationType<m18> 8
+199 380 404 460 465 494 498 507
+MutationType<m18> 9
+
+MutationType<m19> 0
+439 459
+MutationType<m19> 1
+
+MutationType<m19> 2
+
+MutationType<m19> 3
+214 438 459 470 477
+MutationType<m19> 4
+214 261 276 326 349 468 506
+MutationType<m19> 5
+214 276 468 488 489 503
+MutationType<m19> 6
+
+MutationType<m19> 7
+
+MutationType<m19> 8
+407
+MutationType<m19> 9
+407
+MutationType<m20> 0
+438 470 477
+MutationType<m20> 1
+214 260 349 380 401 438 439 445 459 464 471 477 488 502 511
+MutationType<m20> 2
+260 261 276 326 349 365 401 438 445 458 459 464 468 470 471 477 488 502 506 518
+MutationType<m20> 3
+260 401 439 445 464 471 481 502 506 507 518 524
+MutationType<m20> 4
+
+MutationType<m20> 5
+215 485 525
+MutationType<m20> 6
+215 290 485 495 499 503 525
+MutationType<m20> 7
+290 495
+MutationType<m20> 8
+
+MutationType<m20> 9
+
+MutationType<m1> 0
+
+MutationType<m1> 1
+
+MutationType<m1> 2
+364 381 444 476 481 494 503 507 524
+MutationType<m1> 3
+381 476 494 499 503 510 525
+MutationType<m1> 4
+381 445 465 471 476 494 499 503 510 518 525
+MutationType<m1> 5
+
+MutationType<m1> 6
+
+MutationType<m1> 7
+
+MutationType<m1> 8
+
+MutationType<m1> 9
+
+MutationType<m2> 0
+
+MutationType<m2> 1
+
+MutationType<m2> 2
+
+MutationType<m2> 3
+
+MutationType<m2> 4
+
+MutationType<m2> 5
+
+MutationType<m2> 6
+
+MutationType<m2> 7
+438
+MutationType<m2> 8
+438
+MutationType<m2> 9
+438
+MutationType<m3> 0
+
+MutationType<m3> 1
+
+MutationType<m3> 2
+
+MutationType<m3> 3
+
+MutationType<m3> 4
+
+MutationType<m3> 5
+439 459 481 507 511 524
+MutationType<m3> 6
+
+MutationType<m3> 7
+
+MutationType<m3> 8
+400 439 458 459 461 480
+MutationType<m3> 9
+400 458 461 480
+MutationType<m4> 0
+260 349 380 401 464
+MutationType<m4> 1
+
+MutationType<m4> 2
+215 348 406 489
+MutationType<m4> 3
+
+MutationType<m4> 4
+
+MutationType<m4> 5
+199 348 355 404 406 407 438 484
+MutationType<m4> 6
+
+MutationType<m4> 7
+400 458 461 470 477 480
+MutationType<m4> 8
+
+MutationType<m4> 9
+
+MutationType<m5> 0
+
+MutationType<m5> 1
+
+MutationType<m5> 2
+
+MutationType<m5> 3
+
+MutationType<m5> 4
+
+MutationType<m5> 5
+
+MutationType<m5> 6
+
+MutationType<m5> 7
+215 380 465 481 489 507 510 525
+MutationType<m5> 8
+
+MutationType<m5> 9
+
+MutationType<m6> 0
+215
+MutationType<m6> 1
+
+MutationType<m6> 2
+
+MutationType<m6> 3
+215 485 489
+MutationType<m6> 4
+215 485 489
+MutationType<m6> 5
+
+MutationType<m6> 6
+
+MutationType<m6> 7
+485
+MutationType<m6> 8
+215 485 489 525
+MutationType<m6> 9
+
+MutationType<m7> 0
+
+MutationType<m7> 1
+290 495
+MutationType<m7> 2
+461
+MutationType<m7> 3
+
+MutationType<m7> 4
+290 495
+MutationType<m7> 5
+290 380 495
+MutationType<m7> 6
+214 380 489
+MutationType<m7> 7
+214
+MutationType<m7> 8
+214
+MutationType<m7> 9
+214
+MutationType<m8> 0
+
+MutationType<m8> 1
+
+MutationType<m8> 2
+214 290 495
+MutationType<m8> 3
+290 364 444 495
+MutationType<m8> 4
+364 444
+MutationType<m8> 5
+502
+MutationType<m8> 6
+502
+MutationType<m8> 7
+502 511 524
+MutationType<m8> 8
+481 511 524
+MutationType<m8> 9
+481 524
+MutationType<m9> 0
+406
+MutationType<m9> 1
+215 406 489 525
+MutationType<m9> 2
+380 439 465 511
+MutationType<m9> 3
+380 465 511
+MutationType<m9> 4
+380 439 481 502 507 511 524
+MutationType<m9> 5
+
+MutationType<m9> 6
+355 439 459 481 484 507 511 524
+MutationType<m9> 7
+
+MutationType<m9> 8
+
+MutationType<m9> 9
+
+MutationType<m10> 0
+
+MutationType<m10> 1
+
+MutationType<m10> 2
+
+MutationType<m10> 3
+
+MutationType<m10> 4
+
+MutationType<m10> 5
+
+MutationType<m10> 6
+
+MutationType<m10> 7
+355 439 459 484
+MutationType<m10> 8
+355
+MutationType<m10> 9
+
+MutationType<m11> 0
+199 261 326 327 354 365 444 481 488 502 506 507 511 518 519 524
+MutationType<m11> 1
+199 407 444 481 507 518 524
+MutationType<m11> 2
+199 519
+MutationType<m11> 3
+199 519
+MutationType<m11> 4
+
+MutationType<m11> 5
+
+MutationType<m11> 6
+
+MutationType<m11> 7
+
+MutationType<m11> 8
+348 406 510
+MutationType<m11> 9
+
+MutationType<m12> 0
+400 480
+MutationType<m12> 1
+348 400
+MutationType<m12> 2
+400 407 480 510
+MutationType<m12> 3
+407
+MutationType<m12> 4
+407
+MutationType<m12> 5
+
+MutationType<m12> 6
+276 381 465 468 494
+MutationType<m12> 7
+276 364 468
+MutationType<m12> 8
+
+MutationType<m12> 9
+
+MutationType<m13> 0
+198 277 291 404 405 460 485 495 498
+MutationType<m13> 1
+198 277 291 327 354 364 381 404 405 460 465 476 485 494 498 503 519
+MutationType<m13> 2
+198 404 405 460 485 498 525
+MutationType<m13> 3
+
+MutationType<m13> 4
+199 327 354 469 519
+MutationType<m13> 5
+198 261 326 327 349 354 364 381 405 444 445 460 465 469 471 476 494 498 499 510 518 519
+MutationType<m13> 6
+198 260 327 349 354 365 401 405 407 444 445 464 469 471 476 488 498 506 510 518 519
+MutationType<m13> 7
+198 260 291 327 349 354 381 401 405 407 444 445 469 471 476 488 494 498 506 518 519
+MutationType<m13> 8
+198 260 276 291 327 354 365 401 405 444 445 468 469 471 484 506 518 519
+MutationType<m13> 9
+198 291 327 354 405 444 469 484 518
+MutationType<m14> 0
+214 276 290 364 381 445 458 465 468 471 476 489 494 499 503 510 525
+MutationType<m14> 1
+261 276 326 365 458 468 470 480 506 510
+MutationType<m14> 2
+277 291
+MutationType<m14> 3
+198 261 276 277 291 326 349 365 404 405 458 460 461 468 480 498
+MutationType<m14> 4
+198 260 277 291 365 401 404 405 458 460 461 464 480 498
+MutationType<m14> 5
+260 277 291 365 400 401 458 461 464 480 506
+MutationType<m14> 6
+277 291 400 458 461 470 477 480
+MutationType<m14> 7
+277
+MutationType<m14> 8
+277 290 381 476 488 495
+MutationType<m14> 9
+290 381 488
+MutationType<m15> 0
+
+MutationType<m15> 1
+355 469 484
+MutationType<m15> 2
+
+MutationType<m15> 3
+
+MutationType<m15> 4
+355 484
+MutationType<m15> 5
+
+MutationType<m15> 6
+
+MutationType<m15> 7
+
+MutationType<m15> 8
+
+MutationType<m15> 9
+
+MutationType<m16> 0
+355 461 469 484
+MutationType<m16> 1
+461
+MutationType<m16> 2
+
+MutationType<m16> 3
+
+MutationType<m16> 4
+
+MutationType<m16> 5
+
+MutationType<m16> 6
+
+MutationType<m16> 7
+499 503
+MutationType<m16> 8
+499 503
+MutationType<m16> 9
+
+MutationType<m17> 0
+348 407
+MutationType<m17> 1
+
+MutationType<m17> 2
+327 354 469
+MutationType<m17> 3
+348 400 406
+MutationType<m17> 4
+400 406 470
+MutationType<m17> 5
+470 477
+MutationType<m17> 6
+261 326 364
+MutationType<m17> 7
+261 326 365 464
+MutationType<m17> 8
+261 326 349 364 464 470 477 502
+MutationType<m17> 9
+261 326 349 364 464 470 502
+MutationType<m18> 0
+
+MutationType<m18> 1
+499
+MutationType<m18> 2
+355 484 499
+MutationType<m18> 3
+327 354 355 469 484 488
+MutationType<m18> 4
+348 438 459 477 488
+MutationType<m18> 5
+
+MutationType<m18> 6
+199 348 404 406 438 460
+MutationType<m18> 7
+199 348 404 406 460
+MutationType<m18> 8
+199 380 404 460 465 494 498 507
+MutationType<m18> 9
+
+MutationType<m19> 0
+439 459
+MutationType<m19> 1
+
+MutationType<m19> 2
+
+MutationType<m19> 3
+214 438 459 470 477
+MutationType<m19> 4
+214 261 276 326 349 468 506
+MutationType<m19> 5
+214 276 468 488 489 503
+MutationType<m19> 6
+
+MutationType<m19> 7
+
+MutationType<m19> 8
+407
+MutationType<m19> 9
+407
+MutationType<m20> 0
+438 470 477
+MutationType<m20> 1
+214 260 349 380 401 438 439 445 459 464 471 477 488 502 511
+MutationType<m20> 2
+260 261 276 326 349 365 401 438 445 458 459 464 468 470 471 477 488 502 506 518
+MutationType<m20> 3
+260 401 439 445 464 471 481 502 506 507 518 524
+MutationType<m20> 4
+
+MutationType<m20> 5
+215 485 525
+MutationType<m20> 6
+215 290 485 495 499 503 525
+MutationType<m20> 7
+290 495
+MutationType<m20> 8
+
+MutationType<m20> 9
+
+MutationType<m1> 0
+
+MutationType<m1> 1
+
+MutationType<m1> 2
+364 381 444 476 481 494 503 507 524
+MutationType<m1> 3
+381 476 494 499 503 510 525
+MutationType<m1> 4
+381 445 465 471 476 494 499 503 510 518 525
+MutationType<m1> 5
+
+MutationType<m1> 6
+
+MutationType<m1> 7
+
+MutationType<m1> 8
+
+MutationType<m1> 9
+
+MutationType<m2> 0
+
+MutationType<m2> 1
+
+MutationType<m2> 2
+
+MutationType<m2> 3
+
+MutationType<m2> 4
+
+MutationType<m2> 5
+
+MutationType<m2> 6
+
+MutationType<m2> 7
+438
+MutationType<m2> 8
+438
+MutationType<m2> 9
+438
+MutationType<m3> 0
+
+MutationType<m3> 1
+
+MutationType<m3> 2
+
+MutationType<m3> 3
+
+MutationType<m3> 4
+
+MutationType<m3> 5
+439 459 481 507 511 524
+MutationType<m3> 6
+
+MutationType<m3> 7
+
+MutationType<m3> 8
+400 439 458 459 461 480
+MutationType<m3> 9
+400 458 461 480
+MutationType<m4> 0
+260 349 380 401 464
+MutationType<m4> 1
+
+MutationType<m4> 2
+215 348 406 489
+MutationType<m4> 3
+
+MutationType<m4> 4
+
+MutationType<m4> 5
+199 348 355 404 406 407 438 484
+MutationType<m4> 6
+
+MutationType<m4> 7
+400 458 461 470 477 480
+MutationType<m4> 8
+
+MutationType<m4> 9
+
+MutationType<m5> 0
+
+MutationType<m5> 1
+
+MutationType<m5> 2
+
+MutationType<m5> 3
+
+MutationType<m5> 4
+
+MutationType<m5> 5
+
+MutationType<m5> 6
+
+MutationType<m5> 7
+215 380 465 481 489 507 510 525
+MutationType<m5> 8
+
+MutationType<m5> 9
+
+MutationType<m6> 0
+215
+MutationType<m6> 1
+
+MutationType<m6> 2
+
+MutationType<m6> 3
+215 485 489
+MutationType<m6> 4
+215 485 489
+MutationType<m6> 5
+
+MutationType<m6> 6
+
+MutationType<m6> 7
+485
+MutationType<m6> 8
+215 485 489 525
+MutationType<m6> 9
+
+MutationType<m7> 0
+
+MutationType<m7> 1
+290 495
+MutationType<m7> 2
+461
+MutationType<m7> 3
+
+MutationType<m7> 4
+290 495
+MutationType<m7> 5
+290 380 495
+MutationType<m7> 6
+214 380 489
+MutationType<m7> 7
+214
+MutationType<m7> 8
+214
+MutationType<m7> 9
+214
+MutationType<m8> 0
+
+MutationType<m8> 1
+
+MutationType<m8> 2
+214 290 495
+MutationType<m8> 3
+290 364 444 495
+MutationType<m8> 4
+364 444
+MutationType<m8> 5
+502
+MutationType<m8> 6
+502
+MutationType<m8> 7
+502 511 524
+MutationType<m8> 8
+481 511 524
+MutationType<m8> 9
+481 524
+MutationType<m9> 0
+406
+MutationType<m9> 1
+215 406 489 525
+MutationType<m9> 2
+380 439 465 511
+MutationType<m9> 3
+380 465 511
+MutationType<m9> 4
+380 439 481 502 507 511 524
+MutationType<m9> 5
+
+MutationType<m9> 6
+355 439 459 481 484 507 511 524
+MutationType<m9> 7
+
+MutationType<m9> 8
+
+MutationType<m9> 9
+
+MutationType<m10> 0
+
+MutationType<m10> 1
+
+MutationType<m10> 2
+
+MutationType<m10> 3
+
+MutationType<m10> 4
+
+MutationType<m10> 5
+
+MutationType<m10> 6
+
+MutationType<m10> 7
+355 439 459 484
+MutationType<m10> 8
+355
+MutationType<m10> 9
+
+MutationType<m11> 0
+199 261 326 327 354 365 444 481 488 502 506 507 511 518 519 524
+MutationType<m11> 1
+199 407 444 481 507 518 524
+MutationType<m11> 2
+199 519
+MutationType<m11> 3
+199 519
+MutationType<m11> 4
+
+MutationType<m11> 5
+
+MutationType<m11> 6
+
+MutationType<m11> 7
+
+MutationType<m11> 8
+348 406 510
+MutationType<m11> 9
+
+MutationType<m12> 0
+400 480
+MutationType<m12> 1
+348 400
+MutationType<m12> 2
+400 407 480 510
+MutationType<m12> 3
+407
+MutationType<m12> 4
+407
+MutationType<m12> 5
+
+MutationType<m12> 6
+276 381 465 468 494
+MutationType<m12> 7
+276 364 468
+MutationType<m12> 8
+
+MutationType<m12> 9
+
+MutationType<m13> 0
+198 277 291 404 405 460 485 495 498
+MutationType<m13> 1
+198 277 291 327 354 364 381 404 405 460 465 476 485 494 498 503 519
+MutationType<m13> 2
+198 404 405 460 485 498 525
+MutationType<m13> 3
+
+MutationType<m13> 4
+199 327 354 469 519
+MutationType<m13> 5
+198 261 326 327 349 354 364 381 405 444 445 460 465 469 471 476 494 498 499 510 518 519
+MutationType<m13> 6
+198 260 327 349 354 365 401 405 407 444 445 464 469 471 476 488 498 506 510 518 519
+MutationType<m13> 7
+198 260 291 327 349 354 381 401 405 407 444 445 469 471 476 488 494 498 506 518 519
+MutationType<m13> 8
+198 260 276 291 327 354 365 401 405 444 445 468 469 471 484 506 518 519
+MutationType<m13> 9
+198 291 327 354 405 444 469 484 518
+MutationType<m14> 0
+214 276 290 364 381 445 458 465 468 471 476 489 494 499 503 510 525
+MutationType<m14> 1
+261 276 326 365 458 468 470 480 506 510
+MutationType<m14> 2
+277 291
+MutationType<m14> 3
+198 261 276 277 291 326 349 365 404 405 458 460 461 468 480 498
+MutationType<m14> 4
+198 260 277 291 365 401 404 405 458 460 461 464 480 498
+MutationType<m14> 5
+260 277 291 365 400 401 458 461 464 480 506
+MutationType<m14> 6
+277 291 400 458 461 470 477 480
+MutationType<m14> 7
+277
+MutationType<m14> 8
+277 290 381 476 488 495
+MutationType<m14> 9
+290 381 488
+MutationType<m15> 0
+
+MutationType<m15> 1
+355 469 484
+MutationType<m15> 2
+
+MutationType<m15> 3
+
+MutationType<m15> 4
+355 484
+MutationType<m15> 5
+
+MutationType<m15> 6
+
+MutationType<m15> 7
+
+MutationType<m15> 8
+
+MutationType<m15> 9
+
+MutationType<m16> 0
+355 461 469 484
+MutationType<m16> 1
+461
+MutationType<m16> 2
+
+MutationType<m16> 3
+
+MutationType<m16> 4
+
+MutationType<m16> 5
+
+MutationType<m16> 6
+
+MutationType<m16> 7
+499 503
+MutationType<m16> 8
+499 503
+MutationType<m16> 9
+
+MutationType<m17> 0
+348 407
+MutationType<m17> 1
+
+MutationType<m17> 2
+327 354 469
+MutationType<m17> 3
+348 400 406
+MutationType<m17> 4
+400 406 470
+MutationType<m17> 5
+470 477
+MutationType<m17> 6
+261 326 364
+MutationType<m17> 7
+261 326 365 464
+MutationType<m17> 8
+261 326 349 364 464 470 477 502
+MutationType<m17> 9
+261 326 349 364 464 470 502
+MutationType<m18> 0
+
+MutationType<m18> 1
+499
+MutationType<m18> 2
+355 484 499
+MutationType<m18> 3
+327 354 355 469 484 488
+MutationType<m18> 4
+348 438 459 477 488
+MutationType<m18> 5
+
+MutationType<m18> 6
+199 348 404 406 438 460
+MutationType<m18> 7
+199 348 404 406 460
+MutationType<m18> 8
+199 380 404 460 465 494 498 507
+MutationType<m18> 9
+
+MutationType<m19> 0
+439 459
+MutationType<m19> 1
+
+MutationType<m19> 2
+
+MutationType<m19> 3
+214 438 459 470 477
+MutationType<m19> 4
+214 261 276 326 349 468 506
+MutationType<m19> 5
+214 276 468 488 489 503
+MutationType<m19> 6
+
+MutationType<m19> 7
+
+MutationType<m19> 8
+407
+MutationType<m19> 9
+407
+MutationType<m20> 0
+438 470 477
+MutationType<m20> 1
+214 260 349 380 401 438 439 445 459 464 471 477 488 502 511
+MutationType<m20> 2
+260 261 276 326 349 365 401 438 445 458 459 464 468 470 471 477 488 502 506 518
+MutationType<m20> 3
+260 401 439 445 464 471 481 502 506 507 518 524
+MutationType<m20> 4
+
+MutationType<m20> 5
+215 485 525
+MutationType<m20> 6
+215 290 485 495 499 503 525
+MutationType<m20> 7
+290 495
+MutationType<m20> 8
+
+MutationType<m20> 9
+
+MutationType<m1> 0
+
+MutationType<m1> 1
+
+MutationType<m1> 2
+364 381 444 476 481 494 503 507 524
+MutationType<m1> 3
+381 476 494 499 503 510 525
+MutationType<m1> 4
+381 445 465 471 476 494 499 503 510 518 525
+MutationType<m1> 5
+
+MutationType<m1> 6
+
+MutationType<m1> 7
+
+MutationType<m1> 8
+
+MutationType<m1> 9
+
+MutationType<m2> 0
+
+MutationType<m2> 1
+
+MutationType<m2> 2
+
+MutationType<m2> 3
+
+MutationType<m2> 4
+
+MutationType<m2> 5
+
+MutationType<m2> 6
+
+MutationType<m2> 7
+438
+MutationType<m2> 8
+438
+MutationType<m2> 9
+438
+MutationType<m3> 0
+
+MutationType<m3> 1
+
+MutationType<m3> 2
+
+MutationType<m3> 3
+
+MutationType<m3> 4
+
+MutationType<m3> 5
+439 459 481 507 511 524
+MutationType<m3> 6
+
+MutationType<m3> 7
+
+MutationType<m3> 8
+400 439 458 459 461 480
+MutationType<m3> 9
+400 458 461 480
+MutationType<m4> 0
+260 349 380 401 464
+MutationType<m4> 1
+
+MutationType<m4> 2
+215 348 406 489
+MutationType<m4> 3
+
+MutationType<m4> 4
+
+MutationType<m4> 5
+199 348 355 404 406 407 438 484
+MutationType<m4> 6
+
+MutationType<m4> 7
+400 458 461 470 477 480
+MutationType<m4> 8
+
+MutationType<m4> 9
+
+MutationType<m5> 0
+
+MutationType<m5> 1
+
+MutationType<m5> 2
+
+MutationType<m5> 3
+
+MutationType<m5> 4
+
+MutationType<m5> 5
+
+MutationType<m5> 6
+
+MutationType<m5> 7
+215 380 465 481 489 507 510 525
+MutationType<m5> 8
+
+MutationType<m5> 9
+
+MutationType<m6> 0
+215
+MutationType<m6> 1
+
+MutationType<m6> 2
+
+MutationType<m6> 3
+215 485 489
+MutationType<m6> 4
+215 485 489
+MutationType<m6> 5
+
+MutationType<m6> 6
+
+MutationType<m6> 7
+485
+MutationType<m6> 8
+215 485 489 525
+MutationType<m6> 9
+
+MutationType<m7> 0
+
+MutationType<m7> 1
+290 495
+MutationType<m7> 2
+461
+MutationType<m7> 3
+
+MutationType<m7> 4
+290 495
+MutationType<m7> 5
+290 380 495
+MutationType<m7> 6
+214 380 489
+MutationType<m7> 7
+214
+MutationType<m7> 8
+214
+MutationType<m7> 9
+214
+MutationType<m8> 0
+
+MutationType<m8> 1
+
+MutationType<m8> 2
+214 290 495
+MutationType<m8> 3
+290 364 444 495
+MutationType<m8> 4
+364 444
+MutationType<m8> 5
+502
+MutationType<m8> 6
+502
+MutationType<m8> 7
+502 511 524
+MutationType<m8> 8
+481 511 524
+MutationType<m8> 9
+481 524
+MutationType<m9> 0
+406
+MutationType<m9> 1
+215 406 489 525
+MutationType<m9> 2
+380 439 465 511
+MutationType<m9> 3
+380 465 511
+MutationType<m9> 4
+380 439 481 502 507 511 524
+MutationType<m9> 5
+
+MutationType<m9> 6
+355 439 459 481 484 507 511 524
+MutationType<m9> 7
+
+MutationType<m9> 8
+
+MutationType<m9> 9
+
+MutationType<m10> 0
+
+MutationType<m10> 1
+
+MutationType<m10> 2
+
+MutationType<m10> 3
+
+MutationType<m10> 4
+
+MutationType<m10> 5
+
+MutationType<m10> 6
+
+MutationType<m10> 7
+355 439 459 484
+MutationType<m10> 8
+355
+MutationType<m10> 9
+
+MutationType<m11> 0
+199 261 326 327 354 365 444 481 488 502 506 507 511 518 519 524
+MutationType<m11> 1
+199 407 444 481 507 518 524
+MutationType<m11> 2
+199 519
+MutationType<m11> 3
+199 519
+MutationType<m11> 4
+
+MutationType<m11> 5
+
+MutationType<m11> 6
+
+MutationType<m11> 7
+
+MutationType<m11> 8
+348 406 510
+MutationType<m11> 9
+
+MutationType<m12> 0
+400 480
+MutationType<m12> 1
+348 400
+MutationType<m12> 2
+400 407 480 510
+MutationType<m12> 3
+407
+MutationType<m12> 4
+407
+MutationType<m12> 5
+
+MutationType<m12> 6
+276 381 465 468 494
+MutationType<m12> 7
+276 364 468
+MutationType<m12> 8
+
+MutationType<m12> 9
+
+MutationType<m13> 0
+198 277 291 404 405 460 485 495 498
+MutationType<m13> 1
+198 277 291 327 354 364 381 404 405 460 465 476 485 494 498 503 519
+MutationType<m13> 2
+198 404 405 460 485 498 525
+MutationType<m13> 3
+
+MutationType<m13> 4
+199 327 354 469 519
+MutationType<m13> 5
+198 261 326 327 349 354 364 381 405 444 445 460 465 469 471 476 494 498 499 510 518 519
+MutationType<m13> 6
+198 260 327 349 354 365 401 405 407 444 445 464 469 471 476 488 498 506 510 518 519
+MutationType<m13> 7
+198 260 291 327 349 354 381 401 405 407 444 445 469 471 476 488 494 498 506 518 519
+MutationType<m13> 8
+198 260 276 291 327 354 365 401 405 444 445 468 469 471 484 506 518 519
+MutationType<m13> 9
+198 291 327 354 405 444 469 484 518
+MutationType<m14> 0
+214 276 290 364 381 445 458 465 468 471 476 489 494 499 503 510 525
+MutationType<m14> 1
+261 276 326 365 458 468 470 480 506 510
+MutationType<m14> 2
+277 291
+MutationType<m14> 3
+198 261 276 277 291 326 349 365 404 405 458 460 461 468 480 498
+MutationType<m14> 4
+198 260 277 291 365 401 404 405 458 460 461 464 480 498
+MutationType<m14> 5
+260 277 291 365 400 401 458 461 464 480 506
+MutationType<m14> 6
+277 291 400 458 461 470 477 480
+MutationType<m14> 7
+277
+MutationType<m14> 8
+277 290 381 476 488 495
+MutationType<m14> 9
+290 381 488
+MutationType<m15> 0
+
+MutationType<m15> 1
+355 469 484
+MutationType<m15> 2
+
+MutationType<m15> 3
+
+MutationType<m15> 4
+355 484
+MutationType<m15> 5
+
+MutationType<m15> 6
+
+MutationType<m15> 7
+
+MutationType<m15> 8
+
+MutationType<m15> 9
+
+MutationType<m16> 0
+355 461 469 484
+MutationType<m16> 1
+461
+MutationType<m16> 2
+
+MutationType<m16> 3
+
+MutationType<m16> 4
+
+MutationType<m16> 5
+
+MutationType<m16> 6
+
+MutationType<m16> 7
+499 503
+MutationType<m16> 8
+499 503
+MutationType<m16> 9
+
+MutationType<m17> 0
+348 407
+MutationType<m17> 1
+
+MutationType<m17> 2
+327 354 469
+MutationType<m17> 3
+348 400 406
+MutationType<m17> 4
+400 406 470
+MutationType<m17> 5
+470 477
+MutationType<m17> 6
+261 326 364
+MutationType<m17> 7
+261 326 365 464
+MutationType<m17> 8
+261 326 349 364 464 470 477 502
+MutationType<m17> 9
+261 326 349 364 464 470 502
+MutationType<m18> 0
+
+MutationType<m18> 1
+499
+MutationType<m18> 2
+355 484 499
+MutationType<m18> 3
+327 354 355 469 484 488
+MutationType<m18> 4
+348 438 459 477 488
+MutationType<m18> 5
+
+MutationType<m18> 6
+199 348 404 406 438 460
+MutationType<m18> 7
+199 348 404 406 460
+MutationType<m18> 8
+199 380 404 460 465 494 498 507
+MutationType<m18> 9
+
+MutationType<m19> 0
+439 459
+MutationType<m19> 1
+
+MutationType<m19> 2
+
+MutationType<m19> 3
+214 438 459 470 477
+MutationType<m19> 4
+214 261 276 326 349 468 506
+MutationType<m19> 5
+214 276 468 488 489 503
+MutationType<m19> 6
+
+MutationType<m19> 7
+
+MutationType<m19> 8
+407
+MutationType<m19> 9
+407
+MutationType<m20> 0
+438 470 477
+MutationType<m20> 1
+214 260 349 380 401 438 439 445 459 464 471 477 488 502 511
+MutationType<m20> 2
+260 261 276 326 349 365 401 438 445 458 459 464 468 470 471 477 488 502 506 518
+MutationType<m20> 3
+260 401 439 445 464 471 481 502 506 507 518 524
+MutationType<m20> 4
+
+MutationType<m20> 5
+215 485 525
+MutationType<m20> 6
+215 290 485 495 499 503 525
+MutationType<m20> 7
+290 495
+MutationType<m20> 8
+
+MutationType<m20> 9
+
