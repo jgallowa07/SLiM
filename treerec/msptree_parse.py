@@ -3,8 +3,8 @@ import msprime
 import sys
 import io
 
-nodes = open("nonWFNodes2.txt","r")
-edges = open("nonWFEdges2.txt","r")
+nodes = open("NodeTable.txt","r")
+edges = open("EdgeTable.txt","r")
 
 Nodes = msprime.parse_nodes(nodes)
 Edges = msprime.parse_edges(edges)
@@ -26,7 +26,7 @@ for i,j in enumerate(Nodes.time):
 
 Nodes.set_columns(flags=Nodes.flags,time=(Nodes.time - minimumTime),population=Nodes.population)
 treeSequence = msprime.load_tables(nodes=Nodes,edges=Edges)
-
+'''
 for tree in treeSequence.trees():
 	
 	time.sleep(0.5)
@@ -35,4 +35,6 @@ for tree in treeSequence.trees():
 	
 	print(tree.draw(format="unicode",height = 200))
 	print(tree.interval)
-	
+'''
+
+print(treeSequence[0].draw(format="unicode",height = 200))

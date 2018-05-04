@@ -3752,9 +3752,11 @@ void SLiMSim::SimplifyTreeSequence(void)
 	// and then come all the genomes of the extant individuals
 	node_id_t newValueInNodeTable = (node_id_t)RememberedGenomes.size();
 
+/*
 	//(1) initialize oldestGenome
 	Genome *oldestGenome = nullptr;
 	slim_genomeid_t oldestID = INT64_MAX;
+*/
 	
 	for (auto it = population_.begin(); it != population_.end(); it++)
 	{
@@ -3762,13 +3764,15 @@ void SLiMSim::SimplifyTreeSequence(void)
 		
 		for (Genome *genome : subpopulationGenomes)
 		{
-			//(2) check if current genome is older than oldest
+/*
+			//(2) check if current genome is older than oldest, note: smaller genome id == older genome.
+			// so we want the genome with the smalles genomeID
 			slim_genomeid_t relativeAge = genome->genome_id_;
 			if (relativeAge < oldestID){
 				oldestGenome = genome;
 				oldestID = relativeAge;
 			}
-	
+*/	
 			node_id_t M = genome->msp_node_id_;
 			
 			// check if this sample is already being remembered
@@ -3785,10 +3789,23 @@ void SLiMSim::SimplifyTreeSequence(void)
 			}
 		}
 	}
+
+	//debug stdout
+    //std::cout << "bookmark: " << bookmarkOldestEdge << std::endl;
 	
+	//auto filePath = "~/Documents/WithoutBookMark";
+	//std::string filePath = "~/Documents/WithoutBookMark";   
+    
 	// sort, simplify
-	int ret = sort_tables(&tables.nodes, &tables.edges, &tables.migrations, &tables.sites, &tables.mutations, bookmarkOldestEdge);				
+	int ret = sort_tables(&tables.nodes, &tables.edges, &tables.migrations, &tables.sites, &tables.mutations,0);
 	if (ret < 0) handle_error("sort_tables", ret);
+    
+	//debud stdout
+	
+	//if(bookmarkOldestEdge != 0){
+	//	WriteTreeSequence(filePath, false, false);
+	//	handle_error("Quitting early because bookmark was not 0",1);
+	//}
 
     // Remove redundant sites we added
     ret = table_collection_deduplicate_sites(&tables, 0);
@@ -3798,20 +3815,37 @@ void SLiMSim::SimplifyTreeSequence(void)
     if (ret != 0) handle_error("simplifier_run", ret);
 	
 
+
+	//std::cout << "oldestID = " << oldestID << std::endl;
+    
+	//debug stdout
+    //edge_table_print_state(&tables.edges, stdout);
+    //node_table_print_state(&tables.nodes, stdout);
+    
+    //std::cout << oldestGenome->
+	
 	//(3) find the bookmark --- 
+/*
 	bookmarkOldestEdge = 0;
-	if (oldestGenome){
+	if (oldestGenome)
+	{
 		double ageOfOldestIndividual = tables.nodes.time[oldestGenome->msp_node_id_];
 		node_id_t *parents = tables.edges.parent;
 		
-		for(size_t bm = 0; bm < tables.edges.num_rows; bm++){ 
-			double ageOfParent = tables.nodes.time[parents[bm]];	
-			if (ageOfParent == ageOfOldestIndividual){				
+		for(size_t bm = 0; bm < tables.edges.num_rows; bm++)
+		{
+			double ageOfEdgeParent = tables.nodes.time[parents[bm]];
+			if (ageOfEdgeParent >= ageOfOldestIndividual)
+			{
+				//std::cout << "matched age of individual" << std::endl;
 				bookmarkOldestEdge = bm;
 				break;
 			}
 		}
 	}
+*/
+
+	//std::cout << "bookmarkOldestEdge = " << bookmarkOldestEdge << std::endl;
 
     // update map of RememberedGenomes
 	for (node_id_t i = 0; i < (node_id_t)RememberedGenomes.size(); i++)
@@ -4269,7 +4303,7 @@ void SLiMSim::WriteTreeSequence(std::string &p_recording_tree_path, bool p_binar
     } else {
         // this is done by SimplifyTreeSequence() but we need to do in any case
         ret = sort_tables(&tables.nodes, &tables.edges, &tables.migrations, 
-                              &tables.sites, &tables.mutations, 0);				
+                              &tables.sites, &tables.mutations, bookmarkOldestEdge);				
         if (ret < 0) handle_error("sort_tables", ret);
 
         // Remove redundant sites we added
