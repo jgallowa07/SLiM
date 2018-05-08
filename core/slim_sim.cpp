@@ -3825,7 +3825,7 @@ void SLiMSim::SimplifyTreeSequence(void)
     //std::cout << oldestGenome->
 	
 	//(3) find the bookmark --- 
-/*
+/*ls
 	bookmarkOldestEdge = 0;
 	if (oldestGenome)
 	{
