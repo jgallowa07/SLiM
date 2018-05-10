@@ -3793,8 +3793,7 @@ void SLiMSim::SimplifyTreeSequence(void)
 	//debug stdout
     //std::cout << "bookmark: " << bookmarkOldestEdge << std::endl;
 	
-	//auto filePath = "~/Documents/WithoutBookMark";
-	//std::string filePath = "~/Documents/WithoutBookMark";   
+	//auto filePath = "~/Documents/TableSizeBefore_afterSimpliciation";
     
 	// sort, simplify
 	int ret = sort_tables(&tables.nodes, &tables.edges, &tables.migrations, &tables.sites, &tables.mutations,0);
@@ -3807,6 +3806,9 @@ void SLiMSim::SimplifyTreeSequence(void)
 	//	handle_error("Quitting early because bookmark was not 0",1);
 	//}
 
+	table_size_t before_simplify = tables.edges.num_rows;
+	
+
     // Remove redundant sites we added
     ret = table_collection_deduplicate_sites(&tables, 0);
     if (ret < 0) handle_error("deduplicate_sites", ret);
@@ -3814,7 +3816,9 @@ void SLiMSim::SimplifyTreeSequence(void)
 	ret = table_collection_simplify(&tables, samples.data(), samples.size(), MSP_FILTER_ZERO_MUTATION_SITES, NULL);
     if (ret != 0) handle_error("simplifier_run", ret);
 	
+	table_size_t after_simplify = tables.edges.num_rows;
 
+	tableSizes << before_simplify << " " << after_simplify << "\n";
 
 	//std::cout << "oldestID = " << oldestID << std::endl;
     
@@ -3882,6 +3886,9 @@ void SLiMSim::StartTreeRecording(void)
 	tables.sequence_length = (double)chromosome_.last_position_ + 1;
 	
 	table_collection_init_position(&table_position, &tables);
+
+	tableSizes.open ("./example.txt");
+
 }
 
 void SLiMSim::SetCurrentNewIndividual(Individual *p_individual)
@@ -4392,6 +4399,10 @@ void SLiMSim::FreeTreeSequence(void)
 	// and also when we're wiping the slate clean with something like readFromPopulationFile().
 	if (recording_tree_)
 		table_collection_free(&tables);
+
+	//TABLESIZE
+	tableSizes.close();	
+
 }
 
 void SLiMSim::RecordAllDerivedStatesFromSLiM(void)

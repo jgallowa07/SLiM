@@ -303,6 +303,7 @@ private:
 	table_collection_t tables;
 	table_collection_position_t table_position;
 	size_t bookmarkOldestEdge = 0;
+	std::ofstream tableSizes;
 	
 	// TABLE SIMPLIFICATION
     std::vector<node_id_t> RememberedGenomes;
